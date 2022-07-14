@@ -1,0 +1,38 @@
+#form {
+  padding: 4%;
+  padding-top: 2%;
+  margin: 5%;
+  margin-left: 21%;
+  margin-right: 40%;
+  background-color:none;
+}
+body{
+  background :url(img/img5.jpg);
+  background-size:cover;
+}
+#form input{
+  border: solid;
+border-radius:28px;
+border-style: inset;
+}
+    .scroll {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: lightgreen;
+   }
+  marquee {
+    font-size: x-large;
+    color: black;
+  }
+  .btn {
+    background-color: black;
+    border: solid;
+    border-radius: 13px;
+    width: 100px;
+    color:white;
+}
+.btn:hover{
+  background: #2ecc71;
+}

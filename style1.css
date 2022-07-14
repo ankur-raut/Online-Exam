@@ -1,0 +1,25 @@
+
+#para{
+    padding-top: 2%;
+    padding :8%;
+    margin: 5%;
+    font-size: 25px;
+    font-style: italic;
+    
+}
+#head{
+     font-style: italic;
+     padding:0.9%;
+     color:black;
+}
+.scroll {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: lightgreen;
+}
+marquee {
+  font-size: x-large;
+  color: black;
+}

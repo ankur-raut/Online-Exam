@@ -1,0 +1,17 @@
+#form {
+  padding: 15%;
+  padding-top: 1%;
+  margin: 5%;
+  margin-left: 0%;
+  margin-right: 41%;
+}
+.btn {
+  background-color: black;
+  border: solid;
+  border-radius: 13px;
+  width: 100px;
+  color:white;
+}
+.btn:hover{
+background: #2ecc71;
+}

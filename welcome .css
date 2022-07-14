@@ -1,0 +1,16 @@
+.main{
+    padding: 30%;
+    margin: 20%;
+    font-size: 20px;
+}
+.intructions{
+     padding: 20px;
+     margin: 10px;
+     font-size: 10px;
+     font-style: italic;
+     text-align: center;
+}
+body{
+    background :url(../img3.jpg);
+    background-size:cover;
+}
